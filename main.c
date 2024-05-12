@@ -1,6 +1,7 @@
 #include "stdio.h"
 
-void main(void)
+int main(void)
 {
-    return;
+    printf("Hello depuis F2")
+    return 0;
 }
